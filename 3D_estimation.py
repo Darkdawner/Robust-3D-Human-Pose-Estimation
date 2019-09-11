@@ -287,7 +287,7 @@ if __name__ =='__main__':
     O = 0.01
 
     # load bases
-    B = loadmat('B_spams_200_1.mat')
+    B = loadmat('B_spams_50_1.mat')
     B = np.mat(B['B'])
     
     k=0
