@@ -1,4 +1,4 @@
-# robust-3D-human-pose-estimation
+# Robust-3D-Human-Pose-Estimation
 ## Introduction
 This is the a demo of the paper [Robust Estimation of 3D Human Poses from a Single Image](https://arxiv.org/abs/1406.2282) by Python. 
 ## Dataset
